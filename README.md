@@ -1,4 +1,4 @@
-
+客户端mock系统，用于模拟API请求，产生接口假数据，方便调试。
 
 # 项目运行：
 
@@ -58,3 +58,9 @@ http://localhost:3121/api-app3/getHomeInfo
 此工程中的工程名：app1，app2，app3，api接口名：api-app1，api-app2，api-app3 只是举例，实际使用请根据自己项目具体情况修改。
 
 
+
+
+
+交流请邮件：
+
+邮箱：dys90@qq.com
