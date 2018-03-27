@@ -1,0 +1,21 @@
+{
+  "name": "DDMock",
+  "version": "1.0.0",
+  "description": "apimock",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/.bin/nodemon ./index.js"
+  },
+  "author": "丁玉松",
+  "license": "MIT",
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "formidable": "^1.1.1",
+    "koa": "^2.5.0",
+    "koa-body": "^2.5.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "nodemon": "^1.17.1"
+  }
+}
